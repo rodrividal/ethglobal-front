@@ -1,0 +1,2 @@
+(this["webpackJsonpethglobal-front"]=this["webpackJsonpethglobal-front"]||[]).push([[5],{480:function(t,e,n){"use strict";n.r(e);var a=n(12),r=n(13),o=n(15),u=n(14),c=n(0),l=n.n(c),i=function(t){Object(o.a)(n,t);var e=Object(u.a)(n);function n(){return Object(a.a)(this,n),e.apply(this,arguments)}return Object(r.a)(n,[{key:"render",value:function(){return l.a.createElement("h4",null,"You're Home.")}}]),n}(l.a.Component);e.default=i}}]);
+//# sourceMappingURL=5.e6ac55e9.chunk.js.map

@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ethglobal-front/static/css/main.52d78564.chunk.css",
+    "main.js": "/ethglobal-front/static/js/main.d835a174.chunk.js",
+    "main.js.map": "/ethglobal-front/static/js/main.d835a174.chunk.js.map",
+    "runtime-main.js": "/ethglobal-front/static/js/runtime-main.aedd4d5e.js",
+    "runtime-main.js.map": "/ethglobal-front/static/js/runtime-main.aedd4d5e.js.map",
+    "static/js/2.2a2b5aaa.chunk.js": "/ethglobal-front/static/js/2.2a2b5aaa.chunk.js",
+    "static/js/2.2a2b5aaa.chunk.js.map": "/ethglobal-front/static/js/2.2a2b5aaa.chunk.js.map",
+    "static/css/3.9ef8e6ce.chunk.css": "/ethglobal-front/static/css/3.9ef8e6ce.chunk.css",
+    "static/js/3.6aede19f.chunk.js": "/ethglobal-front/static/js/3.6aede19f.chunk.js",
+    "static/js/3.6aede19f.chunk.js.map": "/ethglobal-front/static/js/3.6aede19f.chunk.js.map",
+    "static/css/4.938c68d3.chunk.css": "/ethglobal-front/static/css/4.938c68d3.chunk.css",
+    "static/js/4.96c94470.chunk.js": "/ethglobal-front/static/js/4.96c94470.chunk.js",
+    "static/js/4.96c94470.chunk.js.map": "/ethglobal-front/static/js/4.96c94470.chunk.js.map",
+    "static/js/5.e6ac55e9.chunk.js": "/ethglobal-front/static/js/5.e6ac55e9.chunk.js",
+    "static/js/5.e6ac55e9.chunk.js.map": "/ethglobal-front/static/js/5.e6ac55e9.chunk.js.map",
+    "static/js/6.243c59b5.chunk.js": "/ethglobal-front/static/js/6.243c59b5.chunk.js",
+    "static/js/6.243c59b5.chunk.js.map": "/ethglobal-front/static/js/6.243c59b5.chunk.js.map",
+    "index.html": "/ethglobal-front/index.html",
+    "precache-manifest.c592e7d0cbe2a2c35d07b936d0ef839e.js": "/ethglobal-front/precache-manifest.c592e7d0cbe2a2c35d07b936d0ef839e.js",
+    "service-worker.js": "/ethglobal-front/service-worker.js",
+    "static/css/3.9ef8e6ce.chunk.css.map": "/ethglobal-front/static/css/3.9ef8e6ce.chunk.css.map",
+    "static/css/4.938c68d3.chunk.css.map": "/ethglobal-front/static/css/4.938c68d3.chunk.css.map",
+    "static/css/main.52d78564.chunk.css.map": "/ethglobal-front/static/css/main.52d78564.chunk.css.map",
+    "static/js/2.2a2b5aaa.chunk.js.LICENSE.txt": "/ethglobal-front/static/js/2.2a2b5aaa.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/ethglobal-front/static/media/vuesax-login-bg.eb4e894d.jpg",
+    "static/media/google.svg": "/ethglobal-front/static/media/google.222e25f5.svg",
+    "static/media/login.png": "/ethglobal-front/static/media/login.fd58a052.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aedd4d5e.js",
+    "static/js/2.2a2b5aaa.chunk.js",
+    "static/css/main.52d78564.chunk.css",
+    "static/js/main.d835a174.chunk.js"
+  ]
+}
